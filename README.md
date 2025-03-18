@@ -38,19 +38,20 @@ WorldWise is a simple modern, high-performance single-page application (SPA) bui
 - Provides a **scoped styling approach**, preventing conflicts.
 - Ensures maintainability with reusable styles.
 
-## Learning Outcomes
-By building WorldWise, developers will:
-- 🏗 Gain **hands-on experience** with the **React Context API**.
-- 🚀 Learn best practices for optimizing **React performance**.
-- 🔍 Deepen their understanding of **React Router** for SPAs.
-- 📌 Master advanced **useEffect techniques** for managing side effects.
+## Experience Outcomes
+By building WorldWise, I;
+- 🏗 Gained **hands-on experience** with the **React Context API**.
+- 🚀 Learnt best practices for optimizing **React performance**.
+- 🔍 Developed deeper understanding of **React Router** for SPAs.
+- 📌 Mastered advanced **useEffect techniques** for managing side effects.
 - 🎨 Enhance UI/UX with **CSS Modules** and **interactive maps**.
 
    ```
 
 ## Conclusion
 WorldWise is an **excellent showcase** of modern React development, incorporating key technologies that every web App will need. This project serves as **portfolio piece**, demonstrating expertise in building high-performance, scalable React applications.
-
+**Explore World Wise & see what I can build!** 🍕🚀
+[World Wise](https://zippy-trifle-899160.netlify.app/)
 ---
 
 
